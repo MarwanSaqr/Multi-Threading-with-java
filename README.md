@@ -11,7 +11,7 @@ Multi-threading is a programming technique that allows a process to be divided i
 |----------------------|-------------------------------------------|
 | **Java**            | Main programming language                  |
 | **Multi-threading** | For fast comparing words from file         |
-| **Java (JDK 17)**   | ore application logic                      |
+| **Java (JDK 17)**   | core application logic                     |
 | **Maven**           | Dependency management                      |
 | **GitHub**          | Version control                            |
 
