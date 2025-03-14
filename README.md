@@ -22,7 +22,7 @@ LogMonitorSystem/
 ├── src/
 |    ├── sample.txt                              #Words that was compared
 |    └── java
-|          ├── sample.txt                        #Another ile for  words that was compared
+|          ├── sample.txt                        #Another file for  words that was compared
 |          └── com/mycompany/multithreadingtest/
 │             ├──WordCountComparison.java        # Main class to compare words
 │             └── MultithreadingTest.java        # Multi-threaded compare processing
