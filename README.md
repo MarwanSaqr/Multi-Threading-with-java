@@ -6,6 +6,29 @@ This project demonstrates how to efficiently compare words from a file (`sample.
 ### What is Multi-Threading?  
 Multi-threading is a programming technique that allows a process to be divided into multiple threads, which execute concurrently. This enhances performance by utilizing system resources more efficiently, especially in CPU-intensive tasks.  
 
+## Technologies Used
+| **Technology**       | **Purpose**                               |
+|----------------------|-------------------------------------------|
+| **Java**            | Main programming language                  |
+| **Multi-threading** | For fast comparing words from file         |
+| **Java (JDK 17)**   | ore application logic                      |
+| **Maven**           | Dependency management                      |
+| **GitHub**          | Version control                            |
+
+## Project Structure
+
+```
+LogMonitorSystem/
+├── src/
+|    ├── sample.txt                              #Words that was compared
+|    └── java
+|          ├── sample.txt                        #Another ile for  words that was compared
+|          └── com/mycompany/multithreadingtest/
+│             ├──WordCountComparison.java        # Main class to compare words
+│             └── MultithreadingTest.java        # Multi-threaded compare processing
+└── README.md
+```
+
 
 ### Performance Comparison  
 Below are some sample results comparing single-threaded and multi-threaded execution:  
